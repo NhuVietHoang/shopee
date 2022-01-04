@@ -1,0 +1,141 @@
+.header_dangki{
+    height: 700px;
+    width: 1518px;
+    background: #ee4d2e;
+    position: relative;
+}
+.dangki{
+    width: 1040px;
+    height: 600px;
+    background-image: url(/image/dangki/dangki.png);
+    background-size: cover;
+}
+.form_dangki{
+    position: absolute;
+    top: 85px;
+    right: 239px;
+    width: 400px;
+    height: 550px;
+    background: white;
+    border-radius: 6px;
+
+}
+.ul_dangki{
+   list-style: none;
+}
+.form1{
+    font-size: 1.25rem;
+    color: #222;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 32px;
+    padding-bottom: 25px;
+}
+.form2{
+    width: 338px;
+    height: 40px;
+    border-bottom: 2px solid rgb(238, 77 , 46);
+    margin: 5px 0 22px 0px;
+}
+.text_ten{
+    border: none;
+    outline: none;
+    padding: 0.75rem;
+    text-align: start;
+}
+.butdk{
+    height: 40px;
+    width: 336px;
+    background-color: rgb(238, 77 , 46);
+    border-radius: .123rem;
+    border: none;
+    color: white;
+    
+}
+.hoac{
+    margin-top:25px;
+    margin-left: 19px;
+    display: flex;
+    justify-content: center;
+}
+.gachngang{
+    margin-top: 10px;
+    width: 130px;
+    height: 1px;
+    background: #ee4d2e;
+}
+/* button app */
+.button_app{
+    margin-top: 15px;
+    display: flex;
+    height: 50px;
+    width: 400px;
+}
+.button_fb{
+    margin-left: 40px;
+    margin-right: 5px;
+    width: 112px;
+    height: 40px;
+    background-color: rgb(24, 119, 240);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    border: none;
+    border-radius: 2px;
+    
+}
+.link_app-fb{
+    color:white;
+   
+    display: flex;
+}
+.text_fb{
+    margin-top: 4px;
+    margin-left: 8px;
+}
+.button_gg{
+    
+    margin-left: 5px;
+    width: 103px;
+    height: 40px;
+    background-color: rgb(24, 119, 240);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    position: relative;
+}
+.link_app-gg{
+    right: 2px;
+}
+.img-gg{
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    right: 2px;
+    width: 36px;
+    height: 36px;
+   
+}
+.text_gg{
+   margin-left: 30px;
+}
+
+.button_apple{
+    margin-left: 10px;
+    width: 103px;
+    height: 40px;
+    background-color: #000000;
+}
+.link_app-store{
+    display: flex;
+    color: white;
+    
+}
+.text_apple{
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+
